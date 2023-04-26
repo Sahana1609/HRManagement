@@ -5,10 +5,9 @@
     <classes>
       <class name="testLayer.LoginTest">
         <methods>
-          <include name="Login"/>
+          <include name="Login" invocation-numbers="0"/>
           <include name="close"/>
           <include name="initsetup"/>
-          <include name="Title"/>
         </methods>
       </class> <!-- testLayer.LoginTest -->
     </classes>
